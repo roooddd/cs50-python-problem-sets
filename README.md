@@ -5,3 +5,5 @@ Esse repositório contém minhas soluções para os problem sets do curso **CS50
 ## Semanas
 - Week 0: Functions, Variables
 - Week 1: Conditionals
+- Week 2: Loops
+- Week 3: Exceptions
